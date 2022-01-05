@@ -1,2 +1,2 @@
 # project
-fest project
+first project
